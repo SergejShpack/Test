@@ -15,4 +15,5 @@
 Заставляет принудительно удалить ветку
 > git branch -D branch_name
 
+Чтобы добавить в эту ветку изменения из ветки branch_name:
 > git merge branch_name
