@@ -9,6 +9,10 @@
 Переход на ветку с названием branch_name:
 > git chrckout branch_name
 
+Чтобы удалить ветку branch_name:
 > git branch -d branch_name
+
+Заставляет принудительно удалить ветку
+> git branch -D branch_name
 
 > git merge branch_name
