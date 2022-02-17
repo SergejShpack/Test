@@ -22,3 +22,5 @@
 > git log --graph
 
 # Отправляем в гитхаб
+
+ all add
